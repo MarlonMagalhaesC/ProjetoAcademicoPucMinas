@@ -1,0 +1,14 @@
+C:\Users\Marlon\Desktop\Nova pasta\ProjetoAcademicoPUC-main\TRABALHO_2\bin\Debug\net8.0\TRABALHO_2.exe
+C:\Users\Marlon\Desktop\Nova pasta\ProjetoAcademicoPUC-main\TRABALHO_2\bin\Debug\net8.0\TRABALHO_2.deps.json
+C:\Users\Marlon\Desktop\Nova pasta\ProjetoAcademicoPUC-main\TRABALHO_2\bin\Debug\net8.0\TRABALHO_2.runtimeconfig.json
+C:\Users\Marlon\Desktop\Nova pasta\ProjetoAcademicoPUC-main\TRABALHO_2\bin\Debug\net8.0\TRABALHO_2.dll
+C:\Users\Marlon\Desktop\Nova pasta\ProjetoAcademicoPUC-main\TRABALHO_2\bin\Debug\net8.0\TRABALHO_2.pdb
+C:\Users\Marlon\Desktop\Nova pasta\ProjetoAcademicoPUC-main\TRABALHO_2\obj\Debug\net8.0\TRABALHO_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon\Desktop\Nova pasta\ProjetoAcademicoPUC-main\TRABALHO_2\obj\Debug\net8.0\TRABALHO_2.AssemblyInfoInputs.cache
+C:\Users\Marlon\Desktop\Nova pasta\ProjetoAcademicoPUC-main\TRABALHO_2\obj\Debug\net8.0\TRABALHO_2.AssemblyInfo.cs
+C:\Users\Marlon\Desktop\Nova pasta\ProjetoAcademicoPUC-main\TRABALHO_2\obj\Debug\net8.0\TRABALHO_2.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Desktop\Nova pasta\ProjetoAcademicoPUC-main\TRABALHO_2\obj\Debug\net8.0\TRABALHO_2.dll
+C:\Users\Marlon\Desktop\Nova pasta\ProjetoAcademicoPUC-main\TRABALHO_2\obj\Debug\net8.0\refint\TRABALHO_2.dll
+C:\Users\Marlon\Desktop\Nova pasta\ProjetoAcademicoPUC-main\TRABALHO_2\obj\Debug\net8.0\TRABALHO_2.pdb
+C:\Users\Marlon\Desktop\Nova pasta\ProjetoAcademicoPUC-main\TRABALHO_2\obj\Debug\net8.0\TRABALHO_2.genruntimeconfig.cache
+C:\Users\Marlon\Desktop\Nova pasta\ProjetoAcademicoPUC-main\TRABALHO_2\obj\Debug\net8.0\ref\TRABALHO_2.dll
